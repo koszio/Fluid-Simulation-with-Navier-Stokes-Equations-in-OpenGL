@@ -1,0 +1,3 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+  fluidSimulation.vcxproj -> C:\Users\ziori\Desktop\labs_for_push_only\dh2323-labs\project\Debug\fluidSimulation.exe
